@@ -1,6 +1,6 @@
 # _Одностраничный сайт велосипедов Xiaomi_
 
-## [__GitHub Pages__](http://example.net/)
+## [__GitHub Pages__](https://goldboy1001.github.io/Xiaomi-Bike/)
 
 > Адаптивная вёрстка макета с использованием jquery для сладеров и немного js для меню бургер
 
